@@ -16,6 +16,8 @@ Showed different KPIs Total Loan applications : 38.6K.
 * Column chart for the total appliactions by the Varification Status where as Not verified loans are 16.5K.
 * Pi chart shows the Total Loan Applications by Term i.e whether its 36 months term loan (10.3k) or 60 months loan (28.2K).
 * Tree Chart shows Total loan applications by Home Ownership.
+
+  
 Inserted Slicers in both dashboards for grad and also for Purpose. Using these slicers user can interact with the dashboard can have more information.
 
 
